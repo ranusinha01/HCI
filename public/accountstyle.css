@@ -1,0 +1,50 @@
+.headings{
+	text-align: center;
+	margin-top: 50px;
+	text-decoration: solid
+}
+
+h2{
+	color: #94B3FD
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    border-radius: 10px;
+	height: 80px;
+	width: 50%;
+	margin: auto
+}
+
+.comment{
+	margin-top: 25px;
+	margin-left: 10px;
+	margin-right: 20px;
+	position: absolute;
+}
+
+.fa-2x {
+	font-size: 1.5em;
+}
+
+.like{
+	position: absolute;
+	margin-left : 120px;
+}
+
+.bottom{
+	margin-top: 30px;
+}
+
+.mytextarea{
+	border-radius: 5px;
+	margin-top: 50px;
+}
+
+.mybutton{
+	border-radius: 5px;
+	margin-top: 20px;
+	display: flex;
+	justify-content: center
+}
